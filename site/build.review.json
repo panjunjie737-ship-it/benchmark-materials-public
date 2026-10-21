@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "passed",
-  "total_bytes": 26249,
+  "total_bytes": 14158731,
   "files": {
     ".nojekyll": {
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -16,12 +16,12 @@
       "bytes": 7388
     },
     "index.html": {
-      "sha256": "0c5de05ec3c53dd1d2d13a71660ed3502c704c70ed4a00e89350e96fe9be0351",
-      "bytes": 672
+      "sha256": "1d7fa2bd4cec3f98477e73ca9efc08974dbf69413e844c1742c556fecf62e398",
+      "bytes": 806
     },
     "manifest.json": {
-      "sha256": "56b297eedb497a50ca1eec1a82969d483754fba80209885320fa2709bf4873bb",
-      "bytes": 1247
+      "sha256": "f9addb1eff9171f65e6807193258e2769d51dbc04f5beaba8d5a6ac081484b93",
+      "bytes": 14133595
     },
     "styles.0c9960e5b1dc.css": {
       "sha256": "0c9960e5b1dc487e122926f5f291d70affb264c04d2c63c3e7c7a7dba8fda28f",
