@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "total_bytes": 26249,
+  "files": {
+    ".nojekyll": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "app.39e741d3497c.mjs": {
+      "sha256": "39e741d3497c287b947cb8ac7fc56e65e298ad05c2728589e211a5a38d3b2a14",
+      "bytes": 4146
+    },
+    "catalog.86bf928fda99.mjs": {
+      "sha256": "86bf928fda99a2d52b7e28216b24635ce555c235f4d0ccaab3cd00bef6ef7471",
+      "bytes": 7388
+    },
+    "index.html": {
+      "sha256": "0c5de05ec3c53dd1d2d13a71660ed3502c704c70ed4a00e89350e96fe9be0351",
+      "bytes": 672
+    },
+    "manifest.json": {
+      "sha256": "56b297eedb497a50ca1eec1a82969d483754fba80209885320fa2709bf4873bb",
+      "bytes": 1247
+    },
+    "styles.0c9960e5b1dc.css": {
+      "sha256": "0c9960e5b1dc487e122926f5f291d70affb264c04d2c63c3e7c7a7dba8fda28f",
+      "bytes": 5745
+    },
+    "views.604cd8f79c62.mjs": {
+      "sha256": "604cd8f79c62061e1717379c5de9809d662d64b907c13992d66d17aa63adcea0",
+      "bytes": 7051
+    }
+  }
+}
