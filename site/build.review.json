@@ -1,35 +1,35 @@
 {
-  "schema_version": 1,
-  "status": "passed",
-  "total_bytes": 14158731,
   "files": {
     ".nojekyll": {
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "bytes": 0
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "app.39e741d3497c.mjs": {
-      "sha256": "39e741d3497c287b947cb8ac7fc56e65e298ad05c2728589e211a5a38d3b2a14",
-      "bytes": 4146
+      "bytes": 4146,
+      "sha256": "39e741d3497c287b947cb8ac7fc56e65e298ad05c2728589e211a5a38d3b2a14"
     },
     "catalog.86bf928fda99.mjs": {
-      "sha256": "86bf928fda99a2d52b7e28216b24635ce555c235f4d0ccaab3cd00bef6ef7471",
-      "bytes": 7388
+      "bytes": 7388,
+      "sha256": "86bf928fda99a2d52b7e28216b24635ce555c235f4d0ccaab3cd00bef6ef7471"
     },
     "index.html": {
-      "sha256": "1d7fa2bd4cec3f98477e73ca9efc08974dbf69413e844c1742c556fecf62e398",
-      "bytes": 806
+      "bytes": 806,
+      "sha256": "1d7fa2bd4cec3f98477e73ca9efc08974dbf69413e844c1742c556fecf62e398"
     },
     "manifest.json": {
-      "sha256": "9cba48dc2d92a16627001be9d4d42c84d3081c50204dace7ca98b37ff4abcdce",
-      "bytes": 14133595
+      "bytes": 14138968,
+      "sha256": "6240ffcacf9054feb8b1a40ac3d0ebc6e06590ce060e2ecc664668b128053ee9"
     },
     "styles.0c9960e5b1dc.css": {
-      "sha256": "0c9960e5b1dc487e122926f5f291d70affb264c04d2c63c3e7c7a7dba8fda28f",
-      "bytes": 5745
+      "bytes": 5745,
+      "sha256": "0c9960e5b1dc487e122926f5f291d70affb264c04d2c63c3e7c7a7dba8fda28f"
     },
     "views.604cd8f79c62.mjs": {
-      "sha256": "604cd8f79c62061e1717379c5de9809d662d64b907c13992d66d17aa63adcea0",
-      "bytes": 7051
+      "bytes": 7051,
+      "sha256": "604cd8f79c62061e1717379c5de9809d662d64b907c13992d66d17aa63adcea0"
     }
-  }
+  },
+  "schema_version": 1,
+  "status": "passed",
+  "total_bytes": 14164104
 }
