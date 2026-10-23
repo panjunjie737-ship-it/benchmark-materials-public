@@ -17,8 +17,8 @@
       "sha256": "b5784b22308fa0af73626b48f350f3925c12a850fea3b9a63c8468cb8c579c98"
     },
     "manifest.json": {
-      "bytes": 21072865,
-      "sha256": "2c10a0e2ccf68b60803efb566cb2be6faecde01ba2ed294491024fe2b4b7ebfc"
+      "bytes": 21021722,
+      "sha256": "bdaa95225754523edacf41bfa4c248de73730df6fd8ff49fcc184d926b558bd3"
     },
     "styles.83b47da5b7c1.css": {
       "bytes": 7377,
@@ -31,5 +31,5 @@
   },
   "schema_version": 1,
   "status": "passed",
-  "total_bytes": 21110877
+  "total_bytes": 21059734
 }
